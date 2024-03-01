@@ -1,0 +1,5 @@
+radio= int(input("ingrese el radio de su circulo: "))
+perimetro = 3.1416 * (radio*2)
+print("el perimetro de su circulo es: ", perimetro)
+area= 3.1416 * (radio*radio)
+print("el area de su circulo es: ", area)
